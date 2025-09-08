@@ -1,0 +1,6 @@
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.js linguist-detectable=false
+*.pbix linguist-language=DAX
+*.pbit linguist-language=DAX
+*.PowerBI linguist-language=PowerBI
